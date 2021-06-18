@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904321675690",
+    "project_id": "projeto-integrador-c8e93",
+    "storage_bucket": "projeto-integrador-c8e93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904321675690:android:28e603b4188c7e64fafbd3",
+        "android_client_info": {
+          "package_name": "com.example.projetoivandro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904321675690-fec61n7u6pqh7g4eesp47f1d41edlhtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4LgB79ZdxV1E5akU9Wmr3vdL9A_3b1rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904321675690-fec61n7u6pqh7g4eesp47f1d41edlhtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
